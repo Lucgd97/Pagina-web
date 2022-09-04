@@ -1,0 +1,14 @@
+.hr{
+    margin: 0;
+}
+
+.rodapé{
+    background-color: var(--branco);
+    text-align: center;
+
+}
+
+.rodapé__texto{
+    font-family: var(--fonte-principal);
+    text-align: center;
+}
