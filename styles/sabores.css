@@ -28,3 +28,13 @@
     font-size: 14px;
     font-weight: 700;
 }
+
+@media screen and (min-width: 1024px){
+    .sabores__titulo{
+        font-size: 24px;
+    }
+
+    .sabores__link{
+        font-size: 24px;
+    }
+}

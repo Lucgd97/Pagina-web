@@ -11,4 +11,18 @@
 .rodapé__texto{
     font-family: var(--fonte-principal);
     text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+@media scrren and (min-width: 1024px){
+    .rodapé{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .rodapé__texto{
+        font-size: 24px;
+    }
 }
