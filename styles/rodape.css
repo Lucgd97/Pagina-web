@@ -2,13 +2,13 @@
     margin: 0;
 }
 
-.rodapé{
+.footer{
     background-color: var(--branco);
     text-align: center;
 
 }
 
-.rodapé__texto{
+.footer__text{
     font-family: var(--fonte-principal);
     text-align: center;
     font-weight: 400;
@@ -17,12 +17,12 @@
 }
 
 @media scrren and (min-width: 1024px){
-    .rodapé{
+    .footer{
         display: flex;
         justify-content: space-around;
     }
 
-    .rodapé__texto{
+    .footer__text{
         font-size: 24px;
     }
 }

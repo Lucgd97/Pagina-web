@@ -5,12 +5,12 @@
     padding: 2.5em 2em;
 }
 
-.banner__titulo{
+.banner__title{
     font-size: 18px;
     font-weight: 700;
 }
 
-.banner__texto{
+.banner__text{
     font-weight: 500;
     margin: 1em 0;
 }
@@ -35,7 +35,7 @@
 }
 
 @media screen and (min-width: 1024px){
-    .banner__titulo{
+    .banner__title{
         font-size: 36px;
     }
 

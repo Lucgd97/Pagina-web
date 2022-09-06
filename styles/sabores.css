@@ -4,13 +4,13 @@
     padding: 1em 0;
 }
 
-.sabores__titulo{
+.sabores__title{
     color: var(--branco);
     font-weight: 300;
     margin-bottom: 1em;
 }
 
-.sabores__lista{
+.sabores__list{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -30,7 +30,7 @@
 }
 
 @media screen and (min-width: 1024px){
-    .sabores__titulo{
+    .sabores__title{
         font-size: 24px;
     }
 
