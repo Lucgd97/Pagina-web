@@ -11,7 +11,7 @@ Página web contém:
 - Contato
 - Footer
  
-É um projeto para mostra rinha evoclução  baseado no projeto (https://github.com/Lucgd97/Apresentacao-Pizza-Da-Casa) utilizando a técnica de mobile-first com HTML/CSS avaçando, feito para ser responsivo e com boas práticas como swiperjs, flexbox, @importe etc... para futuro uso da pizzaria dos meus pais.
+É um projeto para mostra rinha evoclução  baseado no projeto (https://github.com/Lucgd97/Apresentacao-Pizza-Da-Casa) utilizando a técnica de mobile-first com HTML/CSS avaçando, feito para ser responsivo e com boas práticas como swiperjs, flexbox, @import etc... para futuro uso da pizzaria dos meus pais.
 
 ## Como é a página:
 
