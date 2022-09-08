@@ -34,8 +34,9 @@ Versão para desktop 1728px:
 - Html
 - CSS
 
-# Autor
-
+# Autores
+Laura Ribeiro
 Lucas Gilio Ducci
 
+https://www.linkedin.com/in/lauraoliveiraribeiro/
 https://www.linkedin.com/in/lucas-gilio-ducci/
