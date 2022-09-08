@@ -1,4 +1,4 @@
-.carrossel__titulo{
+.carrossel__title{
     color: var(--laranja);
     background-color: var(--branco);
     text-align: center;
@@ -22,17 +22,17 @@
     margin: .5em 0;
 }
 
-.card__descrição {
+.card__description {
     display: flex;
     justify-content: space-between;
     margin-bottom: 1em;
 }
 
-.card__botões {
+.card__buttons {
     display: flex;
     justify-content: space-between;
 }
-.botões {
+.buttons {
     display: flex;
 }
 
@@ -44,29 +44,29 @@
     padding: 1em;
 }
 
-.descrição__titulo {
+.description__title {
     color: var(--laranja);
     font-weight: 700;
     margin: 1em;
 }
 
-.descrição__combo {
+.description__combo {
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
     margin: 1.5em 0.5em;
 }
 
-.descrição__texto {
+.description__text {
     font-size: 14px;
     margin: 0 0 0 0.5em;
 }
 
-.botões__item{
+.buttons__item{
     margin: 0 0.5em;
 }
 
-.botões__ancora{
+.buttons__ancora{
     background-color: var(--laranja);
     padding: 1em 1.3em;
     color: var(--branco);
@@ -75,7 +75,7 @@
 }
 
 @media screen and (min-width: 1024px){
-    .carrossel__titulo{
+    .carrossel__title{
         font-size: 26px;
     }
 
@@ -114,11 +114,11 @@
         width: 50%;
     }
 
-    .descrição__titulo{
+    .description__title{
         font-size: 26px;
     }
 
-    .descrição{
+    .description{
         margin-right: 2em;
     }
 
